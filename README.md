@@ -1,2 +1,4 @@
 # 52954_Machine_Learning_and_Statistics
 52954_Machine_Learning_and_Statistics
+
+https://nbviewer.jupyter.org/github/G00364778/52954_Machine_Learning_and_Statistics/blob/master/simple-linear-regression.ipynb
